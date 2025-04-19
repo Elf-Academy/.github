@@ -20,13 +20,10 @@ At Elf Academy, we believe that learning how to *work* is just as important as l
 
 | Feature | URL |
 |--------|-----|
-| 🌍 Main Website | [https://elfacademy.in](https://elfacademy.in) |
-| 📚 Learning Platform | [https://learn.elfacademy.in](https://learn.elfacademy.in) |
-| 🧑‍💼 Internship Portal | [https://internship.elfacademy.in](https://internship.elfacademy.in) |
-| 🧭 Career Roadmaps | [https://career.elfacademy.in](https://career.elfacademy.in) |
-| 💬 Community Forum | [https://forum.elfacademy.in](https://forum.elfacademy.in) |
-| ☁️ Cloud Resume | [https://resume.elfacademy.in](https://resume.elfacademy.in) |
-| 🛠️ Project Tracker | [https://project.elfacademy.in](https://project.elfacademy.in) |
+| 🌍 Main Website | [https://academy.elvesonthecloud.com](https://elfacademy.in) |
+| 🛠️ Project Tracker | [https://github.com/orgs/Elf-Academy/projects/1]](https://github.com/orgs/Elf-Academy/projects/1) |
+|    Google Sheet | [https://docs.google.com/spreadsheets/d/1Zg7L2aDsjWV1OSdRIL4GyrdzjR1oiPtZjhBL_ZpnHvE/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Zg7L2aDsjWV1OSdRIL4GyrdzjR1oiPtZjhBL_ZpnHvE/edit?gid=0#gid=0) |
+|    Google Doc   | [https://docs.google.com/document/d/101d_-cyZuHMDg9E6hfCCQ-aJBIf5dJ8yANRI9mvrmNo/edit?tab=t.d4um3go65k50#heading=h.9yv989p0iqhx](https://docs.google.com/document/d/101d_-cyZuHMDg9E6hfCCQ-aJBIf5dJ8yANRI9mvrmNo/edit?tab=t.d4um3go65k50#heading=h.9yv989p0iqhx)
 
 ---
 
@@ -34,18 +31,11 @@ At Elf Academy, we believe that learning how to *work* is just as important as l
 
 We follow a **microservices architecture**. Each core functionality is managed in its own dedicated repository:
 
-- [`server`](https://github.com/elfacademy/server) – API gateway and main backend logic
-- [`user`](https://github.com/elfacademy/user) – Authentication and user management
-- [`learn`](https://github.com/elfacademy/learn) – Learning modules and AI mentor logic
-- [`project`](https://github.com/elfacademy/project) – Internship and project tracking
-- [`career`](https://github.com/elfacademy/career) – Career guidance and resume tools
-- [`forum`](https://github.com/elfacademy/forum) – Discussion and Q&A threads
-
----
-
-## 🤝 Contribute
-
-Want to contribute or collaborate? Reach out via issues or discussions on any of our repos, or drop a mail to [team@elfacademy.in](mailto:team@elfacademy.in)
+- [`server`](https://github.com/Elf-Academy/learn) – API gateway and main backend logic
+- [`ai`](https://github.com/Elf-Academy/ai) – Authentication and user management
+- [`learn`](https://github.com/Elf-Academy/learn) – Learning modules and AI mentor logic
+- [`website`](https://github.com/Elf-Academy/website) – Internship and project tracking
+- [`dashboard`](https://github.com/Elf-Academy/dashboard) – Career guidance and resume tools
 
 ---
 
