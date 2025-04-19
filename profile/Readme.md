@@ -30,7 +30,7 @@ At Elf Academy, we believe that learning how to *work* is just as important as l
 
 We follow a **microservices architecture**. Each core functionality is managed in its own dedicated repository:
 
-- [`server`](https://github.com/Elf-Academy/learn) – API gateway and main backend logic
+- [`server`](https://github.com/Elf-Academy/server) – API gateway and main backend logic
 - [`ai`](https://github.com/Elf-Academy/ai) – Authentication and user management
 - [`learn`](https://github.com/Elf-Academy/learn) – Learning modules and AI mentor logic
 - [`website`](https://github.com/Elf-Academy/website) – Internship and project tracking
