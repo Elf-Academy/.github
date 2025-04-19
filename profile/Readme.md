@@ -6,7 +6,7 @@ Elf Academy is an AI-powered traineeship platform designed to help IT freshers t
 
 ---
 
-![Elf Academy Banner](https://your-image-url.com/banner.png)
+![Elf Academy Banner](https://server.elvesonthecloud.com/static/images/logo.png)
 
 ---
 
@@ -16,7 +16,7 @@ At Elf Academy, we believe that learning how to *work* is just as important as l
 
 ---
 
-## 🌐 Key Platforms
+## 🌐 Key Links
 
 
 -  [`Main Website`](https://academy.elvesonthecloud.com)
