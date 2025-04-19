@@ -18,12 +18,11 @@ At Elf Academy, we believe that learning how to *work* is just as important as l
 
 ## 🌐 Key Platforms
 
-| Feature | URL |
-|--------|-----|
-| 🌍 Main Website | [https://academy.elvesonthecloud.com](https://elfacademy.in) |
-| 🛠️ Project Tracker | [https://github.com/orgs/Elf-Academy/projects/1]](https://github.com/orgs/Elf-Academy/projects/1) |
-|    Google Sheet | [https://docs.google.com/spreadsheets/d/1Zg7L2aDsjWV1OSdRIL4GyrdzjR1oiPtZjhBL_ZpnHvE/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1Zg7L2aDsjWV1OSdRIL4GyrdzjR1oiPtZjhBL_ZpnHvE/edit?gid=0#gid=0) |
-|    Google Doc   | [https://docs.google.com/document/d/101d_-cyZuHMDg9E6hfCCQ-aJBIf5dJ8yANRI9mvrmNo/edit?tab=t.d4um3go65k50#heading=h.9yv989p0iqhx](https://docs.google.com/document/d/101d_-cyZuHMDg9E6hfCCQ-aJBIf5dJ8yANRI9mvrmNo/edit?tab=t.d4um3go65k50#heading=h.9yv989p0iqhx)
+
+-  [`Main Website`](https://academy.elvesonthecloud.com)
+-  [`Project Tracker`](https://github.com/orgs/Elf-Academy/projects/1) 
+-  [`Google Sheet`](https://docs.google.com/spreadsheets/d/1Zg7L2aDsjWV1OSdRIL4GyrdzjR1oiPtZjhBL_ZpnHvE/edit?gid=0#gid=0) 
+-  [`Google Doc`](https://docs.google.com/document/d/101d_-cyZuHMDg9E6hfCCQ-aJBIf5dJ8yANRI9mvrmNo/edit?tab=t.d4um3go65k50#heading=h.9yv989p0iqhx)
 
 ---
 
